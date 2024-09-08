@@ -7,6 +7,10 @@ Now here is the basic gitHub template for profile READMEs:
 Tools:
 
 
+<img src="./profileImages/vscode.png" width="50" height="50">  <img src="profileImages/CSS-3-01.png" width="50" height="50">  <img src="profileImages/HTML-5-01.png" width="50" height="50"> <img src="./profileImages/JavaScript-01.png" width="50" height="50"> <img src="./profileImages/Python-01.png" width="200" height="50">
+
+
+
 
 
 - 🔭 I’m currently working on this page. 
