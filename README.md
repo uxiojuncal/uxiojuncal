@@ -1,5 +1,5 @@
 # 💫 About Me:
-# ¡Hola! 👋 Soy uxiojuncal<br><br>🎓 Estudiante de Ingeniería Informática y Administración de Empresas.  <br>💡 Me interesan muchos campos de la programación y el desarrollo tecnológico, tanto a alto como a bajo nivel.  <br>🛠️ Tengo sólidos conocimientos de JavaScript y estoy explorando otros lenguajes basados en C.  <br>📱 Actualmente me estoy enfocando en el desarrollo de apps móviles con Flutter y Dart.  <br>🔬 También me interesa la electrónica, el control de hardware y la automatización.  <br><br>✨ ¡Explora mis proyectos más abajo o conéctate conmigo si compartimos intereses!<br>
+# ¡Hola! 👋 Soy Uxío<br><br>🎓 Estudiante de Ingeniería Informática y Administración de Empresas.  <br>💡 Me interesan muchos campos de la programación y el desarrollo tecnológico, tanto a alto como a bajo nivel.  <br>🛠️ Tengo sólidos conocimientos de JavaScript y estoy explorando otros lenguajes basados en C.  <br>📱 Actualmente me estoy enfocando en el desarrollo de apps móviles con Flutter y Dart.  <br>🔬 También me interesa la electrónica, el control de hardware y la automatización.  <br><br>✨ ¡Explora mis proyectos más abajo o conéctate conmigo si compartimos intereses!<br>
 
 
 ## 🌐 Socials:
